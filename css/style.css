@@ -1,0 +1,11 @@
+#header {
+    width: 100%;
+    min-height: 3vh;
+    border: none;
+    text-align: center;
+}
+
+#content {
+    align-content: center;
+    margin: 5em 5em 5em 5em;
+}
